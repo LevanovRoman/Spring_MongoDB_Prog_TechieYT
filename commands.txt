@@ -1,0 +1,8 @@
+ docker-compose -f Compose-docker.yaml up -d
+
+{
+        "expenseName": "Project3",
+        "expenseCategory": "UTILITIES",
+        "expenseAmount": 100
+    }
+
